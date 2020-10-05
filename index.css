@@ -1,5 +1,19 @@
+h1{
+  color:red;
+  font-size:12px;
+}
 body{
 background-color:yellow;
 }
 p{color:blue;
+}
+#para1{
+  color:green;
+  font-size:10px;
+}
+.otherp{
+  color:pink;
+}
+*{
+  font-style:italic;
 }
