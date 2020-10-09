@@ -28,6 +28,18 @@ body{
   padding-left:20px;
   padding-right:20px;
 }
+div.本人{
+  border-width:1px;
+  border-style:solid;
+  border-color:grey;
+  border-radius:5px;
+}
+img{
+  float:left;
+}
+div.本人-end{
+  clear:both;
+}
 table
 {
   border-collapse:collapse
