@@ -14,8 +14,11 @@ p{color:blue;
 .otherp{
   color:pink;
 }
-*{
-  font-style:arial;
+h1,h2,h3{
+  font-style:italic;
+}
+div h1{
+  font-weight:bold;
 }
 body{
   width:960px;
