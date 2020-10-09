@@ -28,8 +28,34 @@ body{
   padding-left:20px;
   padding-right:20px;
 }
+table
+{
+  border-collapse:collapse
+}
 table,th,td
 {
-  border:1px solid blue;
+  border:1px solid black;
+}
+
+th
+{
+  background-color:green;
+  color:white;
+}
+table
+{
+  width:100%
+}
+th
+{
+  height:50px
+}
+td
+{
+  text-align:right;
+}
+td
+{
+  padding:15px
 }
     
