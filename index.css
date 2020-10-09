@@ -70,4 +70,17 @@ td
 {
   padding:15px
 }
+
+#center{
+  display:table;
+  width:948px;
+}
+
+#nav,#content{
+  display:tablle-cell;
+}
+
+#nav{
+  width:150px;
+}
     
